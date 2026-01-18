@@ -1,0 +1,5 @@
+{
+  "name": "UniScholar",
+  "description": "A secure, role-based academic research repository system for universities handling submission, peer review, and publishing workflows.",
+  "requestFramePermissions": []
+}
